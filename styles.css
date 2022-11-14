@@ -1,0 +1,14 @@
+h1 {
+    font-size: 3.5rem;
+    text-align: center;
+    padding-bottom: 2rem;
+}
+
+div {
+    text-align: center;
+}
+
+span {
+    font-size: 3rem;
+    padding: 2rem;
+}
